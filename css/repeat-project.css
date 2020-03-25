@@ -2,9 +2,12 @@
     color: chartreuse;
     font-style: inherit;
     font-size: 200px;
-}
-img {
+}    
+.column {
+    width: 400px;
+    float: right;
+}.sidebar {
+    width: 50%;
     float: left;
-    width: 20%;
-    height: 40%;
+    background-color: gray;
 }
