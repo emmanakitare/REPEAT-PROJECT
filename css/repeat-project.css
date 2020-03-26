@@ -1,7 +1,13 @@
+div {
+    border: 2px lightskyblue;
+    padding: 6px;
+    margin: 0px;
+    float: left;
+}
 .name {
     color: chartreuse;
     font-style: inherit;
-    font-size: 200px;
+    font-size: 50px;
 }    
 .column {
     width: 400px;
